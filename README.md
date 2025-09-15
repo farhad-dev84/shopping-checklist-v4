@@ -10,7 +10,7 @@
 - Modern JavaScript functionalities
 
 ## Screenshots
-![Home Page](screenshot-shopping-checklist-v4/screenshot-shopping-checklist-v4.png)
+![Home Page](screenshot-shopping-checklist-v4.png)
 
 ## How to Use
 1. Open `index.html` in your browser
