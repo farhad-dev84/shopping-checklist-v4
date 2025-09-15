@@ -1,0 +1,5 @@
+/* استایل ساده برای تیک مثلا وقتی تیک خورد رنگش خاکستری بشه و روش خط بیوفته */
+.completed {
+  text-decoration : line-through ;
+  color : gray ;
+}
